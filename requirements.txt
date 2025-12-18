@@ -3,3 +3,11 @@ requests
 protobuf
 python-dotenv
 pymongo
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+websockets
+pymongo
+protobuf
+googleapis-common-protos
